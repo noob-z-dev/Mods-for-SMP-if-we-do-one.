@@ -1,0 +1,7 @@
+MUST BE JAVA EDITION! idk if you need mircosoft but idk lol.
+1: Have Java installed. To get Java watch this video: https://www.youtube.com/watch?v=qrLCrSIcvMA (not a rickroll lol)
+2: Get Curseforge and make it version 1.16.5. To download watch this video: https://www.youtube.com/watch?v=L7pCMg5lOEY (not a rickroll lol.)
+3: Add Jar Files into mods in minecraft. (Yes it has a . at the end.) (DO NOT put the installer in the mods though.)
+4: Install the Fabric thing.
+5: Switch to Fabric Loader 1.16.5 Installation in the Minecraft Java Launcher and then click the play button.
+6: Have Fun lol.
